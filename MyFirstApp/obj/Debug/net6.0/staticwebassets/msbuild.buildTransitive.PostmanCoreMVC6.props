@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PostmanCoreMVC6.props" />
+</Project>
